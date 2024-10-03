@@ -1,4 +1,4 @@
-# Your name - Fab Academy documentation
+# Auxence - Fab Academy documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
@@ -17,4 +17,5 @@ This project's static Pages are built by [GitLab CI][ci], following the steps
 defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
 
 The current above example expects to put all your HTML files in the `public/` directory.
+
 
